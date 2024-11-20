@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Arial, sans-serif'; 
+  }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
